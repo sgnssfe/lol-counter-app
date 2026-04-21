@@ -1,0 +1,10 @@
+.next
+node_modules
+data/matches
+data/match_index.json
+generated_item_recommendation_result.json
+generated_item_recommendation_from_local.json
+generated_item_recommendation_from_index.json
+generated_items_entry.json
+.env
+.env.local

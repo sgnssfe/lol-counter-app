@@ -1,0 +1,4318 @@
+{
+  "matchups": {
+    "gold": {
+      "top": {
+        "ryze": {
+          "recommendedChampions": [
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mordekaiser": {
+          "recommendedChampions": [
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ryze",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "volibear",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yorick",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "zaahen",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "trundle": {
+          "recommendedChampions": [
+            {
+              "id": "olaf",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "olaf": {
+          "recommendedChampions": [
+            {
+              "id": "trundle",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jax": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sett": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "jax",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "darius",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "gwen",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yone": {
+          "recommendedChampions": [
+            {
+              "id": "sion",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sion": {
+          "recommendedChampions": [
+            {
+              "id": "yone",
+              "winRate": 50.0,
+              "games": 2
+            }
+          ],
+          "recommendedItems": []
+        },
+        "darius": {
+          "recommendedChampions": [
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "zaahen": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kayle": {
+          "recommendedChampions": [
+            {
+              "id": "irelia",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "irelia": {
+          "recommendedChampions": [
+            {
+              "id": "tahmkench",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "kayle",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "drmundo": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malphite": {
+          "recommendedChampions": [
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "fiddlesticks",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yone",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "chogath": {
+          "recommendedChampions": [
+            {
+              "id": "yorick",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yorick": {
+          "recommendedChampions": [
+            {
+              "id": "chogath",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "garen": {
+          "recommendedChampions": [
+            {
+              "id": "jax",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "zaahen",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ornn": {
+          "recommendedChampions": [
+            {
+              "id": "mel",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mel": {
+          "recommendedChampions": [
+            {
+              "id": "ornn",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "illaoi": {
+          "recommendedChampions": [
+            {
+              "id": "singed",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "singed": {
+          "recommendedChampions": [
+            {
+              "id": "illaoi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "volibear": {
+          "recommendedChampions": [
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "fiddlesticks": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gwen": {
+          "recommendedChampions": [
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "tahmkench": {
+          "recommendedChampions": [
+            {
+              "id": "irelia",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "jungle": {
+        "ryze": {
+          "recommendedChampions": [
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mordekaiser": {
+          "recommendedChampions": [
+            {
+              "id": "yorick",
+              "winRate": 100.0,
+              "games": 2
+            },
+            {
+              "id": "jarvaniv",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ryze",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "trundle": {
+          "recommendedChampions": [
+            {
+              "id": "olaf",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "olaf": {
+          "recommendedChampions": [
+            {
+              "id": "trundle",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nocturne": {
+          "recommendedChampions": [
+            {
+              "id": "sett",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sett": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nocturne",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "gwen",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "shyvana",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "leesin": {
+          "recommendedChampions": [
+            {
+              "id": "graves",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "graves": {
+          "recommendedChampions": [
+            {
+              "id": "leesin",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vi": {
+          "recommendedChampions": [
+            {
+              "id": "kindred",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kindred": {
+          "recommendedChampions": [
+            {
+              "id": "vi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "shyvana": {
+          "recommendedChampions": [
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jarvaniv": {
+          "recommendedChampions": [
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "viego": {
+          "recommendedChampions": [
+            {
+              "id": "irelia",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "irelia": {
+          "recommendedChampions": [
+            {
+              "id": "lillia",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "viego",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "drmundo": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malphite": {
+          "recommendedChampions": [
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "fiddlesticks",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yone",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lillia": {
+          "recommendedChampions": [
+            {
+              "id": "irelia",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "jax",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jax": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lillia",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "garen": {
+          "recommendedChampions": [
+            {
+              "id": "jax",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "zyra": {
+          "recommendedChampions": [
+            {
+              "id": "mel",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mel": {
+          "recommendedChampions": [
+            {
+              "id": "zyra",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yone": {
+          "recommendedChampions": [
+            {
+              "id": "sion",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "illaoi": {
+          "recommendedChampions": [
+            {
+              "id": "singed",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "singed": {
+          "recommendedChampions": [
+            {
+              "id": "illaoi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yorick": {
+          "recommendedChampions": [
+            {
+              "id": "mordekaiser",
+              "winRate": 0.0,
+              "games": 2
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sion": {
+          "recommendedChampions": [
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "fiddlesticks": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ivern": {
+          "recommendedChampions": [
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "darius": {
+          "recommendedChampions": [
+            {
+              "id": "ivern",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "chogath": {
+          "recommendedChampions": [
+            {
+              "id": "morgana",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "morgana": {
+          "recommendedChampions": [
+            {
+              "id": "chogath",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gwen": {
+          "recommendedChampions": [
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "mid": {
+        "ambessa": {
+          "recommendedChampions": [
+            {
+              "id": "twistedfate",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "twistedfate": {
+          "recommendedChampions": [
+            {
+              "id": "ambessa",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ahri",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jayce": {
+          "recommendedChampions": [
+            {
+              "id": "akali",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "akali": {
+          "recommendedChampions": [
+            {
+              "id": "ahri",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "jayce",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ahri": {
+          "recommendedChampions": [
+            {
+              "id": "twistedfate",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "akali",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "leblanc": {
+          "recommendedChampions": [
+            {
+              "id": "malzahar",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "veigar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malzahar": {
+          "recommendedChampions": [
+            {
+              "id": "leblanc",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "brand",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "brand": {
+          "recommendedChampions": [
+            {
+              "id": "malzahar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "naafiri": {
+          "recommendedChampions": [
+            {
+              "id": "aurelionsol",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lissandra",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aurelionsol": {
+          "recommendedChampions": [
+            {
+              "id": "azir",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "naafiri",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "veigar": {
+          "recommendedChampions": [
+            {
+              "id": "leblanc",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "hwei",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "xerath",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "hwei": {
+          "recommendedChampions": [
+            {
+              "id": "veigar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "talon": {
+          "recommendedChampions": [
+            {
+              "id": "vex",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vex": {
+          "recommendedChampions": [
+            {
+              "id": "talon",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kennen": {
+          "recommendedChampions": [
+            {
+              "id": "seraphine",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "seraphine": {
+          "recommendedChampions": [
+            {
+              "id": "kennen",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "galio": {
+          "recommendedChampions": [
+            {
+              "id": "viktor",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "darius",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "viktor": {
+          "recommendedChampions": [
+            {
+              "id": "galio",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "azir": {
+          "recommendedChampions": [
+            {
+              "id": "aurelionsol",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "velkoz",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "velkoz": {
+          "recommendedChampions": [
+            {
+              "id": "azir",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "darius": {
+          "recommendedChampions": [
+            {
+              "id": "galio",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "volibear": {
+          "recommendedChampions": [
+            {
+              "id": "mel",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mel": {
+          "recommendedChampions": [
+            {
+              "id": "volibear",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lissandra": {
+          "recommendedChampions": [
+            {
+              "id": "naafiri",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sett": {
+          "recommendedChampions": [
+            {
+              "id": "veigar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "xerath": {
+          "recommendedChampions": [
+            {
+              "id": "veigar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yone": {
+          "recommendedChampions": [
+            {
+              "id": "sylas",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sylas": {
+          "recommendedChampions": [
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "tristana": {
+          "recommendedChampions": [
+            {
+              "id": "orianna",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "orianna": {
+          "recommendedChampions": [
+            {
+              "id": "tristana",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malphite": {
+          "recommendedChampions": [
+            {
+              "id": "yasuo",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yasuo": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "katarina": {
+          "recommendedChampions": [
+            {
+              "id": "syndra",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "syndra": {
+          "recommendedChampions": [
+            {
+              "id": "katarina",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "adc": {
+        "samira": {
+          "recommendedChampions": [
+            {
+              "id": "ezreal",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "jinx",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "kaisa",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ezreal": {
+          "recommendedChampions": [
+            {
+              "id": "jhin",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "samira",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "zeri",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aphelios",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "yunara",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jhin": {
+          "recommendedChampions": [
+            {
+              "id": "caitlyn",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "twitch",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aurelionsol",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "ezreal",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "veigar": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ashe": {
+          "recommendedChampions": [
+            {
+              "id": "veigar",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "caitlyn",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "jinx",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sivir",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "twitch",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "caitlyn": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "twitch",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "missfortune",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "jhin",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "missfortune": {
+          "recommendedChampions": [
+            {
+              "id": "twitch",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "caitlyn",
+              "winRate": 50.0,
+              "games": 2
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jinx": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "samira",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ziggs",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "azir": {
+          "recommendedChampions": [
+            {
+              "id": "kaisa",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kaisa": {
+          "recommendedChampions": [
+            {
+              "id": "samira",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "azir",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "zeri": {
+          "recommendedChampions": [
+            {
+              "id": "ezreal",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "twitch": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "caitlyn",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "jhin",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "missfortune",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vayne": {
+          "recommendedChampions": [
+            {
+              "id": "varus",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "varus": {
+          "recommendedChampions": [
+            {
+              "id": "vayne",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ziggs": {
+          "recommendedChampions": [
+            {
+              "id": "jinx",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aphelios": {
+          "recommendedChampions": [
+            {
+              "id": "ezreal",
+              "winRate": 50.0,
+              "games": 2
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aurelionsol": {
+          "recommendedChampions": [
+            {
+              "id": "jhin",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sivir": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yunara": {
+          "recommendedChampions": [
+            {
+              "id": "ezreal",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "support": {
+        "jarvaniv": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "alistar": {
+          "recommendedChampions": [
+            {
+              "id": "jarvaniv",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "karma",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "fiddlesticks",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "seraphine",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "tahmkench",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "tahmkench": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lux",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "seraphine": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "karma": {
+          "recommendedChampions": [
+            {
+              "id": "leona",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "alistar",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "braum",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "yuumi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "pantheon": {
+          "recommendedChampions": [
+            {
+              "id": "rell",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "rell": {
+          "recommendedChampions": [
+            {
+              "id": "pantheon",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "fiddlesticks": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "braum": {
+          "recommendedChampions": [
+            {
+              "id": "leona",
+              "winRate": 100.0,
+              "games": 2
+            },
+            {
+              "id": "karma",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "blitzcrank",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "leona": {
+          "recommendedChampions": [
+            {
+              "id": "braum",
+              "winRate": 0.0,
+              "games": 2
+            },
+            {
+              "id": "karma",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "yuumi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lux": {
+          "recommendedChampions": [
+            {
+              "id": "neeko",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "tahmkench",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "brand": {
+          "recommendedChampions": [
+            {
+              "id": "milio",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "pyke",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "pyke": {
+          "recommendedChampions": [
+            {
+              "id": "brand",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lulu",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lulu": {
+          "recommendedChampions": [
+            {
+              "id": "pyke",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "trundle",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "maokai": {
+          "recommendedChampions": [
+            {
+              "id": "sona",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sona": {
+          "recommendedChampions": [
+            {
+              "id": "maokai",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "neeko": {
+          "recommendedChampions": [
+            {
+              "id": "kayle",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "lux",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "swain": {
+          "recommendedChampions": [
+            {
+              "id": "senna",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "senna": {
+          "recommendedChampions": [
+            {
+              "id": "swain",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "trundle": {
+          "recommendedChampions": [
+            {
+              "id": "lulu",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "milio": {
+          "recommendedChampions": [
+            {
+              "id": "brand",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "xerath": {
+          "recommendedChampions": [
+            {
+              "id": "nautilus",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nautilus": {
+          "recommendedChampions": [
+            {
+              "id": "xerath",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "blitzcrank": {
+          "recommendedChampions": [
+            {
+              "id": "braum",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kayle": {
+          "recommendedChampions": [
+            {
+              "id": "neeko",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yuumi": {
+          "recommendedChampions": [
+            {
+              "id": "karma",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "leona",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      }
+    },
+    "emerald": {
+      "top": {
+        "renekton": {
+          "recommendedChampions": [
+            {
+              "id": "ambessa",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "irelia",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "vayne",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "irelia": {
+          "recommendedChampions": [
+            {
+              "id": "renekton",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gragas": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malphite": {
+          "recommendedChampions": [
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "gnar",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "gragas",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ambessa": {
+          "recommendedChampions": [
+            {
+              "id": "nasus",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "poppy",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "renekton",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "poppy": {
+          "recommendedChampions": [
+            {
+              "id": "ambessa",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "darius": {
+          "recommendedChampions": [
+            {
+              "id": "ksante",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "tryndamere",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sion": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "pantheon",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "singed",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "urgot",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "illaoi": {
+          "recommendedChampions": [
+            {
+              "id": "pantheon",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "pantheon": {
+          "recommendedChampions": [
+            {
+              "id": "illaoi",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "jax",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jax": {
+          "recommendedChampions": [
+            {
+              "id": "olaf",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "pantheon",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "drmundo",
+              "winRate": 50.0,
+              "games": 2
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mordekaiser": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aatrox": {
+          "recommendedChampions": [
+            {
+              "id": "masteryi",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "mordekaiser",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "camille": {
+          "recommendedChampions": [
+            {
+              "id": "urgot",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yorick",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yorick": {
+          "recommendedChampions": [
+            {
+              "id": "camille",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "vayne",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "singed": {
+          "recommendedChampions": [
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nasus": {
+          "recommendedChampions": [
+            {
+              "id": "ambessa",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yone": {
+          "recommendedChampions": [
+            {
+              "id": "nasus",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ksante": {
+          "recommendedChampions": [
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "urgot": {
+          "recommendedChampions": [
+            {
+              "id": "gwen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "camille",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "gangplank",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gangplank": {
+          "recommendedChampions": [
+            {
+              "id": "urgot",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vayne": {
+          "recommendedChampions": [
+            {
+              "id": "renekton",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yorick",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gwen": {
+          "recommendedChampions": [
+            {
+              "id": "urgot",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "tryndamere": {
+          "recommendedChampions": [
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gnar": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "drmundo": {
+          "recommendedChampions": [
+            {
+              "id": "jax",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "yasuo",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "garen": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ornn",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "urgot",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yasuo": {
+          "recommendedChampions": [
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "xinzhao": {
+          "recommendedChampions": [
+            {
+              "id": "rumble",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "rumble": {
+          "recommendedChampions": [
+            {
+              "id": "xinzhao",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "vladimir",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ornn": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "olaf": {
+          "recommendedChampions": [
+            {
+              "id": "jax",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vladimir": {
+          "recommendedChampions": [
+            {
+              "id": "rumble",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "masteryi": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "jungle": {
+        "renekton": {
+          "recommendedChampions": [
+            {
+              "id": "irelia",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "vayne",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "irelia": {
+          "recommendedChampions": [
+            {
+              "id": "renekton",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gragas": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malphite": {
+          "recommendedChampions": [
+            {
+              "id": "diana",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "gnar",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "gragas",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "shyvana": {
+          "recommendedChampions": [
+            {
+              "id": "poppy",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "poppy": {
+          "recommendedChampions": [
+            {
+              "id": "shyvana",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "darius": {
+          "recommendedChampions": [
+            {
+              "id": "jarvaniv",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "naafiri",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sion": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "briar",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "pantheon",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "illaoi": {
+          "recommendedChampions": [
+            {
+              "id": "pantheon",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "pantheon": {
+          "recommendedChampions": [
+            {
+              "id": "illaoi",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "talon": {
+          "recommendedChampions": [
+            {
+              "id": "fiddlesticks",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "fiddlesticks": {
+          "recommendedChampions": [
+            {
+              "id": "talon",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kindred": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aatrox": {
+          "recommendedChampions": [
+            {
+              "id": "camille",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "kindred",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "masteryi",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "camille": {
+          "recommendedChampions": [
+            {
+              "id": "urgot",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aatrox",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "briar": {
+          "recommendedChampions": [
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nidalee": {
+          "recommendedChampions": [
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yone": {
+          "recommendedChampions": [
+            {
+              "id": "nidalee",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "naafiri": {
+          "recommendedChampions": [
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "urgot": {
+          "recommendedChampions": [
+            {
+              "id": "lillia",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "camille",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "gangplank",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gangplank": {
+          "recommendedChampions": [
+            {
+              "id": "urgot",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ambessa": {
+          "recommendedChampions": [
+            {
+              "id": "nasus",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "graves",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nasus": {
+          "recommendedChampions": [
+            {
+              "id": "ambessa",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vi": {
+          "recommendedChampions": [
+            {
+              "id": "hecarim",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "hecarim": {
+          "recommendedChampions": [
+            {
+              "id": "vi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "masteryi": {
+          "recommendedChampions": [
+            {
+              "id": "gwen",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aatrox",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gwen": {
+          "recommendedChampions": [
+            {
+              "id": "masteryi",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lillia": {
+          "recommendedChampions": [
+            {
+              "id": "rumble",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "urgot",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jarvaniv": {
+          "recommendedChampions": [
+            {
+              "id": "darius",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "drmundo",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "gnar": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "drmundo": {
+          "recommendedChampions": [
+            {
+              "id": "jarvaniv",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ivern",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "jax",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jax": {
+          "recommendedChampions": [
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "diana": {
+          "recommendedChampions": [
+            {
+              "id": "malphite",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "garen": {
+          "recommendedChampions": [
+            {
+              "id": "aatrox",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "khazix",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ornn",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "urgot",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ivern": {
+          "recommendedChampions": [
+            {
+              "id": "drmundo",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "xinzhao": {
+          "recommendedChampions": [
+            {
+              "id": "rumble",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "rumble": {
+          "recommendedChampions": [
+            {
+              "id": "xinzhao",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lillia",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ornn": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "graves": {
+          "recommendedChampions": [
+            {
+              "id": "ambessa",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vayne": {
+          "recommendedChampions": [
+            {
+              "id": "renekton",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "viego": {
+          "recommendedChampions": [
+            {
+              "id": "olaf",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "olaf": {
+          "recommendedChampions": [
+            {
+              "id": "viego",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "khazix": {
+          "recommendedChampions": [
+            {
+              "id": "garen",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "mid": {
+        "zed": {
+          "recommendedChampions": [
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "swain",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sion": {
+          "recommendedChampions": [
+            {
+              "id": "akali",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "zed",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aatrox": {
+          "recommendedChampions": [
+            {
+              "id": "sylas",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sylas": {
+          "recommendedChampions": [
+            {
+              "id": "ahri",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "naafiri",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aatrox",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "galio",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "swain": {
+          "recommendedChampions": [
+            {
+              "id": "zed",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "twistedfate": {
+          "recommendedChampions": [
+            {
+              "id": "malzahar",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "akali",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "viktor",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "akali": {
+          "recommendedChampions": [
+            {
+              "id": "katarina",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lissandra",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "twistedfate",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "shaco",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sion",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "chogath": {
+          "recommendedChampions": [
+            {
+              "id": "cassiopeia",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "hwei",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yone": {
+          "recommendedChampions": [
+            {
+              "id": "akshan",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "cassiopeia",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "chogath",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ryze",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "cassiopeia": {
+          "recommendedChampions": [
+            {
+              "id": "chogath",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yasuo": {
+          "recommendedChampions": [
+            {
+              "id": "viktor",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "viktor": {
+          "recommendedChampions": [
+            {
+              "id": "twistedfate",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yasuo",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "katarina",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "lissandra",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "galio": {
+          "recommendedChampions": [
+            {
+              "id": "lux",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "singed",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sylas",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "anivia",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "anivia": {
+          "recommendedChampions": [
+            {
+              "id": "galio",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ahri",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "hwei": {
+          "recommendedChampions": [
+            {
+              "id": "ahri",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "chogath",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "malzahar": {
+          "recommendedChampions": [
+            {
+              "id": "katarina",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lux",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "twistedfate",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "veigar",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "xerath",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lux": {
+          "recommendedChampions": [
+            {
+              "id": "galio",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "malzahar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "singed": {
+          "recommendedChampions": [
+            {
+              "id": "galio",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "shaco": {
+          "recommendedChampions": [
+            {
+              "id": "akali",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lissandra": {
+          "recommendedChampions": [
+            {
+              "id": "viktor",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "akali",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "azir": {
+          "recommendedChampions": [
+            {
+              "id": "orianna",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "leblanc",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "orianna": {
+          "recommendedChampions": [
+            {
+              "id": "ahri",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "azir",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "katarina": {
+          "recommendedChampions": [
+            {
+              "id": "viktor",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "akali",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "malzahar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ahri": {
+          "recommendedChampions": [
+            {
+              "id": "anivia",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "orianna",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "hwei",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sylas",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "leblanc": {
+          "recommendedChampions": [
+            {
+              "id": "azir",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "akshan": {
+          "recommendedChampions": [
+            {
+              "id": "diana",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "yone",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "diana": {
+          "recommendedChampions": [
+            {
+              "id": "akshan",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ryze": {
+          "recommendedChampions": [
+            {
+              "id": "yone",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "xerath": {
+          "recommendedChampions": [
+            {
+              "id": "malzahar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "naafiri": {
+          "recommendedChampions": [
+            {
+              "id": "sylas",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "veigar": {
+          "recommendedChampions": [
+            {
+              "id": "malzahar",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "adc": {
+        "tristana": {
+          "recommendedChampions": [
+            {
+              "id": "kaisa",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ashe",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ashe": {
+          "recommendedChampions": [
+            {
+              "id": "tristana",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ziggs",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aphelios",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "yunara",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "caitlyn": {
+          "recommendedChampions": [
+            {
+              "id": "missfortune",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aphelios",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "kaisa",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "ziggs",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "missfortune": {
+          "recommendedChampions": [
+            {
+              "id": "kaisa",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "caitlyn",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "xayah",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "aphelios": {
+          "recommendedChampions": [
+            {
+              "id": "kalista",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "veigar",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ziggs",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ashe",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "caitlyn",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "nilah",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "veigar": {
+          "recommendedChampions": [
+            {
+              "id": "aphelios",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kaisa": {
+          "recommendedChampions": [
+            {
+              "id": "caitlyn",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "jhin",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nilah",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lucian",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "mel",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "missfortune",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "tristana",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "xayah",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "xayah": {
+          "recommendedChampions": [
+            {
+              "id": "kaisa",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "missfortune",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "yunara",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "jhin",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "varus": {
+          "recommendedChampions": [
+            {
+              "id": "zeri",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "zeri": {
+          "recommendedChampions": [
+            {
+              "id": "varus",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "kalista": {
+          "recommendedChampions": [
+            {
+              "id": "samira",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aphelios",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "mel": {
+          "recommendedChampions": [
+            {
+              "id": "kaisa",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ezreal": {
+          "recommendedChampions": [
+            {
+              "id": "yunara",
+              "winRate": 100.0,
+              "games": 2
+            },
+            {
+              "id": "ziggs",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "smolder",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "yunara": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "ezreal",
+              "winRate": 0.0,
+              "games": 2
+            },
+            {
+              "id": "draven",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "xayah",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lucian": {
+          "recommendedChampions": [
+            {
+              "id": "kaisa",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nilah": {
+          "recommendedChampions": [
+            {
+              "id": "aphelios",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "kaisa",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sivir",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ziggs": {
+          "recommendedChampions": [
+            {
+              "id": "caitlyn",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "jinx",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "aphelios",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "ashe",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "ezreal",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "vladimir",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jhin": {
+          "recommendedChampions": [
+            {
+              "id": "xayah",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "kaisa",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "samira": {
+          "recommendedChampions": [
+            {
+              "id": "kalista",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "smolder": {
+          "recommendedChampions": [
+            {
+              "id": "ezreal",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "vladimir": {
+          "recommendedChampions": [
+            {
+              "id": "ziggs",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "seraphine": {
+          "recommendedChampions": [
+            {
+              "id": "swain",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "swain": {
+          "recommendedChampions": [
+            {
+              "id": "seraphine",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sivir": {
+          "recommendedChampions": [
+            {
+              "id": "nilah",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "jinx": {
+          "recommendedChampions": [
+            {
+              "id": "ziggs",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "draven": {
+          "recommendedChampions": [
+            {
+              "id": "yunara",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      },
+      "support": {
+        "camille": {
+          "recommendedChampions": [
+            {
+              "id": "thresh",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "thresh": {
+          "recommendedChampions": [
+            {
+              "id": "camille",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "braum",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "seraphine",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nami": {
+          "recommendedChampions": [
+            {
+              "id": "karma",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "pyke",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "swain",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "alistar",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "senna",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "swain": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nami",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "nautilus",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "maokai": {
+          "recommendedChampions": [
+            {
+              "id": "velkoz",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "velkoz": {
+          "recommendedChampions": [
+            {
+              "id": "maokai",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "pantheon": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "lulu",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "renata",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "alistar": {
+          "recommendedChampions": [
+            {
+              "id": "ashe",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nami",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "pantheon",
+              "winRate": 50.0,
+              "games": 2
+            },
+            {
+              "id": "swain",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "braum": {
+          "recommendedChampions": [
+            {
+              "id": "thresh",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "blitzcrank",
+              "winRate": 0.0,
+              "games": 2
+            },
+            {
+              "id": "nautilus",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "blitzcrank": {
+          "recommendedChampions": [
+            {
+              "id": "braum",
+              "winRate": 100.0,
+              "games": 2
+            },
+            {
+              "id": "nautilus",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "morgana": {
+          "recommendedChampions": [
+            {
+              "id": "leona",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "nautilus",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "leona": {
+          "recommendedChampions": [
+            {
+              "id": "morgana",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "seraphine": {
+          "recommendedChampions": [
+            {
+              "id": "thresh",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lux",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "pyke",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "karma": {
+          "recommendedChampions": [
+            {
+              "id": "nautilus",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nami",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "veigar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "nautilus": {
+          "recommendedChampions": [
+            {
+              "id": "blitzcrank",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "braum",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "morgana",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "neeko",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "swain",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "karma",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "rell",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "pyke": {
+          "recommendedChampions": [
+            {
+              "id": "seraphine",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nami",
+              "winRate": 0.0,
+              "games": 1
+            },
+            {
+              "id": "neeko",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "senna": {
+          "recommendedChampions": [
+            {
+              "id": "nami",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lux": {
+          "recommendedChampions": [
+            {
+              "id": "seraphine",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "sett",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "teemo": {
+          "recommendedChampions": [
+            {
+              "id": "milio",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "milio": {
+          "recommendedChampions": [
+            {
+              "id": "teemo",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "renata": {
+          "recommendedChampions": [
+            {
+              "id": "pantheon",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lulu",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "lulu": {
+          "recommendedChampions": [
+            {
+              "id": "pantheon",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "renata",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "taric",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "rell": {
+          "recommendedChampions": [
+            {
+              "id": "nautilus",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "veigar": {
+          "recommendedChampions": [
+            {
+              "id": "karma",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "neeko": {
+          "recommendedChampions": [
+            {
+              "id": "pyke",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "nautilus",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "rakan": {
+          "recommendedChampions": [
+            {
+              "id": "shaco",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "shaco": {
+          "recommendedChampions": [
+            {
+              "id": "rakan",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "taric": {
+          "recommendedChampions": [
+            {
+              "id": "lulu",
+              "winRate": 100.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "ashe": {
+          "recommendedChampions": [
+            {
+              "id": "alistar",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        },
+        "sett": {
+          "recommendedChampions": [
+            {
+              "id": "thresh",
+              "winRate": 100.0,
+              "games": 1
+            },
+            {
+              "id": "lux",
+              "winRate": 0.0,
+              "games": 1
+            }
+          ],
+          "recommendedItems": []
+        }
+      }
+    }
+  }
+}

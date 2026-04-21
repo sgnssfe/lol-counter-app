@@ -1,0 +1,202 @@
+{
+  "items": {
+    "gold": {
+      "mid": {
+        "yasuo": {
+          "malphite_vi_ahri_jinx_leona": {
+            "recommendedItems": [
+              {
+                "itemId": 3111,
+                "winRate": 54.8,
+                "games": 1284,
+                "reason": "CCとAPダメージが多い構成に対して安定しやすい"
+              },
+              {
+                "itemId": 3033,
+                "winRate": 53.9,
+                "games": 912,
+                "reason": "回復持ちがいるため、早めに回復阻害を用意したい"
+              },
+              {
+                "itemId": 3036,
+                "winRate": 55.1,
+                "games": 1046,
+                "reason": "前衛が2枚いて、耐久を抜く必要がある"
+              }
+            ],
+            "buildOrder": [
+              {
+                "itemId": 3111,
+                "reason": "CCが多いため最初に安定感を確保したい"
+              },
+              {
+                "itemId": 3033,
+                "reason": "中盤以降の回復対策を優先したい"
+              },
+              {
+                "itemId": 3036,
+                "reason": "Malphiteを含む前衛を削るため中盤以降に欲しい"
+              }
+            ]
+          },
+          "ornn_sejuani_veigar_kaisa_rakan": {
+            "recommendedItems": [
+              {
+                "name": "マーキュリーブーツ",
+                "winRate": 55.6,
+                "games": 980,
+                "reason": "CCとAP比率が高く、耐性と行動阻害対策が重要"
+              },
+              {
+                "name": "対タンク火力アイテム",
+                "winRate": 54.2,
+                "games": 1104,
+                "reason": "前衛2枚構成で長期戦になりやすい"
+              },
+              {
+                "name": "防御系アイテム",
+                "winRate": 52.9,
+                "games": 744,
+                "reason": "VeigarやKai'Saのバーストを受け切る必要がある"
+              }
+            ],
+            "buildOrder": [
+              {
+                "name": "1. マーキュリーブーツ",
+                "reason": "Sejuani・Rakan・Veigarへの対策として優先"
+              },
+              {
+                "name": "2. 対タンク火力アイテム",
+                "reason": "OrnnとSejuaniを早めに削れるようにする"
+              },
+              {
+                "name": "3. 防御系アイテム",
+                "reason": "中盤以降のバースト耐性を補強"
+              }
+            ]
+          }
+        },
+        "ahri": {
+          "darius_vi_yasuo_jinx_nautilus": {
+            "recommendedItems": [
+              {
+                "name": "マーキュリーブーツ",
+                "winRate": 53.7,
+                "games": 1161,
+                "reason": "NautilusとVi、Yasuoの拘束や接近に対して安定しやすい"
+              },
+              {
+                "name": "ゾーニャ系アイテム",
+                "winRate": 55.0,
+                "games": 1005,
+                "reason": "ViやYasuoの飛び込みに対して時間を稼ぎやすい"
+              },
+              {
+                "name": "重傷アイテム",
+                "winRate": 52.8,
+                "games": 603,
+                "reason": "Dariusの回復や継戦能力を落としたい"
+              }
+            ],
+            "buildOrder": [
+              {
+                "name": "1. マーキュリーブーツ",
+                "reason": "捕まった時の事故を減らしたい"
+              },
+              {
+                "name": "2. ゾーニャ系アイテム",
+                "reason": "飛び込みへの受けを早めに作る"
+              },
+              {
+                "name": "3. 重傷アイテム",
+                "reason": "前衛の継戦能力を削る"
+              }
+            ]
+          }
+        }
+      },
+      "adc": {
+        "jinx": {
+          "malphite_vi_ahri_xayah_rakan": {
+            "recommendedItems": [
+              {
+                "name": "マーキュリーブーツ",
+                "winRate": 53.4,
+                "games": 855,
+                "reason": "AhriとRakan、Viの拘束に対して安定しやすい"
+              },
+              {
+                "name": "防御系アイテム",
+                "winRate": 54.1,
+                "games": 790,
+                "reason": "飛び込みに合わせて生存力を確保したい"
+              },
+              {
+                "name": "対タンク火力アイテム",
+                "winRate": 52.9,
+                "games": 668,
+                "reason": "Malphiteを含む前衛処理が必要"
+              }
+            ],
+            "buildOrder": [
+              {
+                "name": "1. マーキュリーブーツ",
+                "reason": "拘束からのワンコン事故を減らしたい"
+              },
+              {
+                "name": "2. 防御系アイテム",
+                "reason": "ViやRakanの飛び込み対策を優先"
+              },
+              {
+                "name": "3. 対タンク火力アイテム",
+                "reason": "前衛を削れる形に移行したい"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "emerald": {
+      "mid": {
+        "yasuo": {
+          "malphite_vi_ahri_jinx_leona": {
+            "recommendedItems": [
+              {
+                "name": "マーキュリーブーツ",
+                "winRate": 55.3,
+                "games": 1562,
+                "reason": "CCとAPダメージが多い構成に対して安定しやすい"
+              },
+              {
+                "name": "重傷アイテム",
+                "winRate": 54.1,
+                "games": 1018,
+                "reason": "継戦能力の高い相手に対して優先度が高い"
+              },
+              {
+                "name": "対タンク火力アイテム",
+                "winRate": 55.8,
+                "games": 1326,
+                "reason": "Malphiteを中心とした前衛突破が必要"
+              }
+            ],
+            "buildOrder": [
+              {
+                "name": "1. マーキュリーブーツ",
+                "reason": "Leona・Ahri・Viの拘束に対する安定感を確保"
+              },
+              {
+                "name": "2. 対タンク火力アイテム",
+                "reason": "前衛処理を早めに意識したい"
+              },
+              {
+                "name": "3. 重傷アイテム",
+                "reason": "継戦や回復対策を中盤で補う"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
